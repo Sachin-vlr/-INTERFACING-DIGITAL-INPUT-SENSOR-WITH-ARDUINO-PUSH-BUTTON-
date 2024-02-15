@@ -97,4 +97,7 @@ void loop()
 
 ![image](https://github.com/Sachin-vlr/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/113497666/94169406-931e-4c7d-a830-5ab25e1f0231)
 
+![image](https://github.com/Sachin-vlr/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/113497666/bc1109fd-cb5e-40ef-b4b9-6b289e9b94f3)
 
+## RESULT :
+Program for interfacing digital input sensor with arduino push buttonis successfully implemented.
